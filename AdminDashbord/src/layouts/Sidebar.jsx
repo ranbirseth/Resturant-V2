@@ -23,7 +23,7 @@ const menuItems = [
   { icon: Ticket, label: 'Coupons', path: '/coupons' },
   { icon: BarChart3, label: 'Analytics', path: '/analytics' },
   { icon: Settings, label: 'Settings', path: '/settings' },
-  { icon: Receipt, label: 'Billing', path: 'https://secondwife.netlify.app/', external: true },
+  { icon: Receipt, label: 'Billing', path: 'https://billon.netlify.app/', external: true },
 ];
 
 const Sidebar = ({ isOpen, onClose }) => {
